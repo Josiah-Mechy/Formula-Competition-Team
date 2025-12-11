@@ -6,6 +6,7 @@ As one of the Suspension and Powertrain Engineers on Liberty University's Formul
 ## Powertrain Component Design
 Modeled major components in SolidWorks, ensuring manufacturable geometry, proper tolerances, and assembly fit:
 -Crankshaft
+https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Crank%20Shaft.png
 -Transmission Input Shaft & Output Shaft
 -Friction & Steel Disks
 -Clutch Basket
