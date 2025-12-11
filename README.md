@@ -1,39 +1,34 @@
 # Formula-Competition-Team
 Suspension and Powertrain Member
-formula-competition-portfolio/
-│
-├── README.md
-│
-├── powertrain/
-│   ├── models/
-│   │   ├── crankshaft/
-│   │   │   ├── crankshaft.SLDPRT
-│   │   │   └── crankshaft.png
-│   │   ├── transmission_input/
-│   │   ├── transmission_output/
-│   │   ├── friction_disks/
-│   │   ├── steel_disks/
-│   │   ├── clutch_basket/
-│   │   └── drivetrain_pump/
-│   └── notes.md
-│
-├── suspension/
-│   ├── models/
-│   │   ├── steering_shaft/
-│   │   │   ├── steering_shaft.SLDPRT
-│   │   │   └── steering_shaft.png
-│   │   └── heave_damper_sensor_mount/
-│   └── notes.md
-│
-├── data-analysis/
-│   ├── matlab/
-│   │   ├── magic_tyre_import.m
-│   │   ├── plots/
-│   │   │   ├── lateral_force_vs_slip_angle.png
-│   │   │   ├── longitudinal_force_vs_slip_ratio.png
-│   │   │   └── aligning_moment_vs_slip_angle.png
-│   └── report.md
-│
-└── assets/
-    ├── photos_raw/
-    └── icons/
+
+As one of the Suspension and Powertrain Engineers on Liberty University's collegiate Formula Competition Team, I focused on theSolidWokrs design of the vehicle’s core powertrain and suspension components. This repository highlights my individual contributions to the powertrain and suspension subteams.
+
+Powertrain Component Design
+
+Modeled major components in SolidWorks, ensuring manufacturable geometry, proper tolerances, and assembly fit:
+
+Crankshaft
+
+Transmission Input Shaft & Output Shaft
+
+Friction & Steel Disks
+
+Clutch Basket
+
+Drivetrain Pump
+
+All models include reference images for quick viewing.
+
+🔗 Files located in powertrain/models/
+
+🏎️ Suspension System Modeling
+
+Designed and integrated key suspension components:
+
+Steering Shaft
+
+Heave Damper Sensor Attachment
+
+Focused on stiffness, packaging constraints, and compatibility with existing system geometry.
+
+🔗 Files located in suspension/models/
