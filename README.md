@@ -15,23 +15,30 @@ Crank Shaft | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Te
 Transmission Input Shaft | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Transmission%20Input%20Shaft.zip
 
 ![Transmission Output Shaft](https://raw.githubusercontent.com/Josiah-Mechy/Formula-Competition-Team/main/Transmission%20Output%20Shaft.png)
+
 Transmission Output Shaft | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Transmission%20Output%20Shaft.SLDPRT
 
 ![Friction Plate](https://raw.githubusercontent.com/Josiah-Mechy/Formula-Competition-Team/main/Friction%20Plate.png)
+
 Friction Plate | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Friction%20Plate.SLDPRT
 
 ![Steel Disk](https://raw.githubusercontent.com/Josiah-Mechy/Formula-Competition-Team/main/Steel%20Disk.png)
+
 Steel Disk | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Steel%20Disk.SLDPRT
 
 ![Clutch Basket](https://raw.githubusercontent.com/Josiah-Mechy/Formula-Competition-Team/main/Clutch%20Basket.png)
+
 Clutch Basket | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Clutch%20Basket.zip
 
 ![Powertrain Pump](https://raw.githubusercontent.com/Josiah-Mechy/Formula-Competition-Team/main/Powertrain%20Pump.png)
+
 Drivetrain Pump | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Pump%20Assembly.zip
 
 ## Suspension System Modeling
 Designed and integrated key suspension components:
+
 ![Steering Shaft](https://raw.githubusercontent.com/Josiah-Mechy/Formula-Competition-Team/main/Steering%20Shaft.png)
+
 Steering Shaft | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Steering%20Shaft.SLDPRT
 
 ## What I Learned
