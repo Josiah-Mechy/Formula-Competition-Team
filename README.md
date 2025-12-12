@@ -11,6 +11,7 @@ Modeled major components in SolidWorks, ensuring manufacturable geometry, proper
 Crank Shaft | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Crank%20Shaft.zip
 
 ![Transmission Input Shaft](https://raw.githubusercontent.com/Josiah-Mechy/Formula-Competition-Team/main/Transmission%20Input%20Shaft.png)
+
 Transmission Input Shaft | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition-Team/blob/main/Transmission%20Input%20Shaft.zip
 
 ![Transmission Output Shaft](https://raw.githubusercontent.com/Josiah-Mechy/Formula-Competition-Team/main/Transmission%20Output%20Shaft.png)
