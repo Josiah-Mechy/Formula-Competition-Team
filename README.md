@@ -43,7 +43,11 @@ Steering Shaft | SolidWorks: https://github.com/Josiah-Mechy/Formula-Competition
 
 ## What I Learned
 Through my work on both the powertrain and suspension teams, I gained experience in:
+
 -Advanced SolidWorks part modeling, assemblies, and design intent
+
 -Understanding powertrain and suspension system interactions within a formula-style vehicle
+
 -Working with subsystem-specific design requirements and packaging constraints
+
 -Applying engineering reasoning to ensure reliability, stiffness, and functionality
